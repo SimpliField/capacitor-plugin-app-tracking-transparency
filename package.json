@@ -1,7 +1,14 @@
 {
   "name": "@simplifield/capacitor-plugin-app-tracking-transparency",
+<<<<<<< Updated upstream
   "private": true,
   "version": "2.0.7",
+||||||| Stash base
+  "private": true,
+  "version": "2.0.5",
+=======
+  "version": "2.0.5",
+>>>>>>> Stashed changes
   "description": "Capacitor plugin to request user authorization to access app-related data for tracking the user or the device.",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
