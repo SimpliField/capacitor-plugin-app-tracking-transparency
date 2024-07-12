@@ -9,7 +9,7 @@
   "files": [
     "dist/",
     "ios/Plugin/",
-    "CapacitorPluginAppTrackingTransparency.podspec"
+    "SimplifieldCapacitorPluginAppTrackingTransparency.podspec"
   ],
   "author": "Manuel Heidrich",
   "contributors": [
